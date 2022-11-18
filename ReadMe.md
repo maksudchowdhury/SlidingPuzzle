@@ -13,5 +13,6 @@ Aside from physical fatigue, sliding puzzles can also make your eyes tired. Peop
 </p>
 <br><br>
 <p>Here are some screenshot of the game</p>
-![1](https://user-images.githubusercontent.com/45464612/202662181-d7d0859e-d96f-4fb1-8e96-74ea82c1fd75.JPG) <br>
-![2](https://user-images.githubusercontent.com/45464612/202662196-ec4d4374-68f0-4ebf-a4a3-34d8733c117c.JPG)
+<img src="https://user-images.githubusercontent.com/45464612/202662463-f4bff2c3-8837-4e52-87c6-ca4177c4f00b.JPG"><br>
+<img src="https://user-images.githubusercontent.com/45464612/202662570-db2c8882-6574-460b-9858-6364346a55d4.JPG">
+
